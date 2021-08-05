@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Head from "next/head";
 import Layout from "../components/layout";
-import youtubeImg from '../public/youtube.png';
 import '../styles/globals.scss';
 
 const MyApp = ({ Component, pageProps }) => (
@@ -12,13 +11,6 @@ const MyApp = ({ Component, pageProps }) => (
     <main>
       <Component {...pageProps} />
     </main>
-    <Image
-      src={youtubeImg}
-      width={500} 
-      height={350} 
-      alt="preview"
-      placeholder="blur"
-    />
   </Layout>
 );
 
