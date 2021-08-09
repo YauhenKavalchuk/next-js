@@ -1,9 +1,9 @@
-import { AppProps } from "next/app";
+import Image from "next/image";
 import Head from "next/head";
-import Layout from "../components/Layout";
+import Layout from "../components/layout";
 import '../styles/globals.scss';
 
-const MyApp = ({ Component, pageProps }: AppProps) => (
+const MyApp = ({ Component, pageProps }) => (
   <Layout>
     <Head>
       <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet" />
