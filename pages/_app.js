@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Head from "next/head";
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import youtubeImg from '../public/youtube.png';
 import '../styles/globals.scss';
 
