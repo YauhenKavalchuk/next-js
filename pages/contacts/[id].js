@@ -4,7 +4,7 @@ import ContactInfo from "../../components/ContactInfo";
 const Contact = ({ contact }) => (
   <>
     <Head>
-      <title>Contact page</title>
+      <title>Contact</title>
     </Head>
     <ContactInfo contact={contact} />
   </>
