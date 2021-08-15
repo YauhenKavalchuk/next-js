@@ -4,7 +4,7 @@ import Heading from "../../components/Heading";
 const Contact = () => (
   <>
     <Head>
-      <title>Contact page</title>
+      <title>Contact</title>
     </Head>
     <Heading text="Jack" />
   </>
