@@ -12,7 +12,13 @@
 ## Полезные ссылки:
 - [Next.js (официальный сайт)](https://nextjs.org)
 - [Node Package Manager](https://www.npmjs.com)
-- [{JSON} Placeholder](https://jsonplaceholder.typicode.com)
+- [{JSON} Placeholder (тестовый API)](https://jsonplaceholder.typicode.com)
+
+## Полезные курсы:
+- [React & Redux](https://www.youtube.com/playlist?list=PLNkWIWHIRwME_Gv2vlWAR6TfeSXylYfw4)
+- [ES6](https://www.youtube.com/playlist?list=PLNkWIWHIRwMGLJXugVvdK7i8UagGQNaXD)
+- [ES7-ES9 Features](https://www.youtube.com/playlist?list=PLNkWIWHIRwMH_05WTvIX419odDtStynm3)
+- [TypeScript](https://www.youtube.com/playlist?list=PLNkWIWHIRwMEm1FgiLjHqSky27x5rXvQa)
 
 ## Быстрый старт
 - Клонируйте репозиторий: `git clone https://github.com/YauhenKavalchuk/next-js.git`
