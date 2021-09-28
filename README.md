@@ -1,5 +1,20 @@
 # Next.js
 
+## Связаться со мной:
+[<img alt="webDev | YouTube" src="https://img.shields.io/badge/youtube-FF0000.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][youtube]
+[<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
+[<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="webDev | Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][twitter]
+[<img alt="webDev | VK" src="https://img.shields.io/badge/vk-4680C2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" />][vk]
+
+## Поддержать канал:
+<a href="https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg/join">
+  <img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/youtube_sponsor.png" width="160">
+</a>
+<a href="https://www.patreon.com/YauhenKavalchuk">
+  <img src="https://github.com/YauhenKavalchuk/YauhenKavalchuk/blob/master/assets/patreon_patron.png" width="160">
+</a>
+
 ### Описание курса:
 В данном видеокурсе мы с вами рассмотрим фрэймворк для серверного рендеринга - Next.js. 
 Разберём основные концепции по типу роутинга, создания страниц и копонентов. Рассмотрим разницу подходов SSR (Server Side Rendering) и SSG (Static Site Generation), а так же подключим их в приложение. Рассмотрим, как Next.js ускоряет загрузку приложения и улучшает работу с SEO. И в заключение выполним типизацию с помощью TypeScript и загрузим готовое приложение на бесплатный хостинг Vercel.
@@ -42,19 +57,6 @@
 - #10 Создание API (API Creation)
 - #11 Подключение TypeScript (TypeScript Integration)
 - #12 Загрузка приложения на Vercel (Deploying To Vercel)
-
-## Автор курса в социальных сетях:
-[<img align="left" alt="webDev | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="webDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="webDev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="webDev | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="webDev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
-
-## Поддержать канал:
-
-<a href="https://www.patreon.com/YauhenKavalchuk" target="_blank">
-  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
 
 [youtube]: https://youtube.com/YauhenKavalchuk
 [instagram]: https://instagram.com/YauhenKavalchuk
