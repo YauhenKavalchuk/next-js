@@ -41,19 +41,19 @@
 ---
 
 ### Список уроков:
-- #0 Введение (Introduction)
-- #1 Базовые концепции и установка (Basic Concepts & Setup Environment)
-- #2 Страницы и Роутинг (Pages & Routes)
-- #3 Макет и компоненты (Layout & Components)
-- #4 Cтили (Styles)
-- #5 Навигация по страницам (Pages Navigation & Redirecting)
-- #6 Картинки и метаданные (Images & Metadata)
-- #7 Получение данных (Fetching Data)
-- #8 Динамические роуты (Dynamic Routes)
-- #9 Рендеринг на сервере и статичная генерация (SSR & SSG)
-- #10 Создание API (API Creation)
-- #11 Подключение TypeScript (TypeScript Integration)
-- #12 Загрузка приложения на Vercel (Deploying To Vercel)
+- [#0 Введение (Introduction)](https://youtu.be/M1Y7JmaslkU)
+- [#1 Базовые концепции и установка (Basic Concepts & Setup Environment)](https://youtu.be/dnd0YxOla8A)
+- [#2 Страницы и Роутинг (Pages & Routes)](https://youtu.be/Pt9PkDWEluk)
+- [#3 Макет и компоненты (Layout & Components)](https://youtu.be/_nWJOlC-Yfk)
+- [#4 Cтили (Styles)](https://youtu.be/TAr0SSxe9b4)
+- [#5 Навигация по страницам (Pages Navigation & Redirecting)](https://youtu.be/rocqGSMlus4)
+- [#6 Картинки и метаданные (Images & Metadata)](https://youtu.be/S2KQHlhd5jw)
+- [#7 Получение данных (Fetching Data)](https://youtu.be/ZCCEl9J8zv0)
+- [#8 Динамические роуты (Dynamic Routes)](https://youtu.be/gVl3rnjBurU)
+- [#9 Рендеринг на сервере и статичная генерация (SSR & SSG)](https://youtu.be/-YwctEwGkCk)
+- [#10 Создание API (API Creation)](https://youtu.be/_9iWPtnzyt8)
+- [#11 Подключение TypeScript (TypeScript Integration)](https://youtu.be/jFvyGCtvtrs)
+- [#12 Загрузка приложения на Vercel (Deploying To Vercel)](https://youtu.be/nxiKSPYvuZk)
 
 ---
 
